@@ -1,4 +1,5 @@
 // import {Sorter} from './Sorter'
+// SEE THE SORTER FILE FOR EXPLANATION OF HOW WE HAVE REFACTORED
 import {NumbersCollection} from './NumbersCollection'
 import {CharectersCollection} from './CharectersCollection'
 import {LinkedList} from './LinkedList'
